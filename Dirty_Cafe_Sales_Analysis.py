@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-df=pd.read_csv(r"C:\Users\SAFIYA BANU\Downloads\dirty_cafe_sales.csv")
+df=pd.read_csv(r"dirty_cafe_sales.csv")
 #data exploration
 print("\nFirst 5 rows\n")
 print(df.head())
